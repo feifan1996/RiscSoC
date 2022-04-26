@@ -1,0 +1,7 @@
++incdir+../../rtl
+../../rtl/74HC153.v
+../../rtl/74HC154.v
+../../rtl/74HC161.v
+../../rtl/74HC283.v
+../../rtl/74HC540.v
+../../rtl/pa_soc_cpu.v

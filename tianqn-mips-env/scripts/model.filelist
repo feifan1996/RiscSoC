@@ -1,0 +1,5 @@
++incdir+../../rtl
+../../rtl/pa_soc_core.v
+../../rtl/pa_soc_itcm.v
+../../rtl/pa_soc_xreg.v
+../../rtl/pa_soc_uart.v
